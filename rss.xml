@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Stuart Bowman]]></title>
-        <description><![CDATA[Stuart Bowman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Actor]]></title>
+        <description><![CDATA[Actor]]></description>
+        <link>https://thegrid.ai/stuart-bowman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 16:32:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 16:36:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stuart-bowman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f1cf9b2-594f-4141-9a6b-db1f41994309.jpg">]]></description>
+            <link>https://thegrid.ai/stuart-bowman/0f128a04-893a-4a24-90ec-7b9336d20f89/index.html</link>
+            <guid isPermaLink="false">0f128a04-893a-4a24-90ec-7b9336d20f89</guid>
+            <pubDate>Sun, 20 Mar 2016 16:36:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2129ee5a-ace1-4ccf-afc2-a1244909a51f.jpg">]]></description>
-            <link>undefined079c487b-ba4d-4f92-88cd-8d7d9ae07dda/index.html</link>
+            <link>https://thegrid.ai/stuart-bowman/079c487b-ba4d-4f92-88cd-8d7d9ae07dda/index.html</link>
             <guid isPermaLink="false">079c487b-ba4d-4f92-88cd-8d7d9ae07dda</guid>
             <pubDate>Sun, 20 Mar 2016 16:32:46 GMT</pubDate>
         </item>
