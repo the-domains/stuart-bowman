@@ -1,29 +1,41 @@
-name: Stuart Bowman
-favicon: null
-layout_spectrum: 0.9902801816351712
-typography_spectrum: 0.8373041385784745
 title: Actor
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3264461581129581
+  brandStrength: 0.5232975
+  lightness: 0.3330136556178331
+  brandColors:
+    - '#162042'
+    - '#66645B'
+    - '#FFFDF2'
+    - '#8792BD'
+    - '#C7625A'
+  rhythmicContrast: 0.6474982819054276
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Stuart Bowman
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7108836949337274
-  lightness: 0.33301365561783314
-  saturation: 0.3264461581129581
-  rhythmicContrast: 0.6474982819054276
-purpose: []
+typography_spectrum: 0.8373041385784745
+layout_spectrum: 0.9902801816351712
