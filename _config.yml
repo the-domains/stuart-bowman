@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3264461581129581
+  saturation: 0.5215054
   brandStrength: 0.5232975
-  lightness: 0.3330136556178331
+  lightness: 0.374552
   brandColors:
     - '#162042'
     - '#66645B'
     - '#FFFDF2'
     - '#8792BD'
     - '#C7625A'
-  rhythmicContrast: 0.6474982819054276
+  rhythmicContrast: 0.6474983
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Stuart Bowman
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8373041385784745
-layout_spectrum: 0.9902801816351712
+typography_spectrum: 0.6827957
+layout_spectrum: 0.9014337
